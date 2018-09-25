@@ -3,10 +3,6 @@
 ### Welcome to DSCI 511!
 This is a first course in graduate level data science at Drexel University focused on early phases of work in the data science lifecycle. 
 
-
-
-
-# DSCI 511: Data Acquisition and Pre-Processing
 ## Course Description
 Introduces the breadth of data science through a project lifecycle perspective. Covers early-stage data-life cycle activities in depth for the development and dissemination data sets. Provides technical experience with data harvesting, acquisition, pre-processing, and curation.  Concludes with an open-ended term project where students explore data availability, scale, variability, and reliability.
 College/Department: College of Computing & Informatics
