@@ -1,0 +1,6 @@
+Genre-1	Rock
+Genre-2	Hip Hop/Rap
+Genre-3	New Age
+Genre-4	Electronic
+Genre-5	Pop
+Genre-6	R&B
