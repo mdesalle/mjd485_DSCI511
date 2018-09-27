@@ -72,7 +72,48 @@ One open-ended group assignment will have two phases:
 2. Implementation of Data Set Construction with Documentation and Dissemination
 
 ### Course Schedule
-The course’s schedule follows the lecture notes at roughly one week per chapter with the expectation that students will configure systems and review or work through the processing fundamentals in Chapter 0. Some chapters may extend over multiple weeks, depending the section’s pace. Week 10 and the regularly scheduled final exam period (to be determined) are reserved for final project presentations. Please complete the following weekly readings:
+The course’s schedule follows the lecture notes at roughly one week per chapter with the expectation that students will configure systems and review or work through the processing fundamentals in Chapter 0. Some chapters may extend over multiple weeks, depending the section’s pace. Week 10 and the regularly scheduled final exam period (to be determined) are reserved for final project presentations. Please observe the following (tentative) schedule, and be aware that weekly may change depending on the pace of class.
 - Week 1:
-    - DSFS: Chs. 1&ndash;2
-    - TDSH: Chs. 1&ndash;2, 3.1&ndash;3.2
+    - DSFS: 1–2
+    - TDSH: 1–2, 3.1–3.2 
+    - Project: Group formation; begin Phase 1
+    - Homework: Begin Assignment 1
+- Week 2:
+    - DSFS: Chapter 9 (All, except pgs. 108–114)
+    - TDSH: Ch. 12
+    - PDSH: Chapters 2.01–2.02
+    - Project: continue Phase 1
+    - Homework: continue Assignment 1
+- Week 3:
+    - DSFS: Chapter 9 (114–120)
+    - Project: begin Phase 2 (Monday); complete Phase 1 (Friday)
+    - Homework: begin Assignment 2 (Monday); complete Assignment 1 (Friday)
+- Week 4:
+    - DSFS: Chapter 10 (pgs. 127–133)
+    - TDSH: Chapter 4 (All, except 4.5)
+    - Project: continue Phase 2
+    - Homework: continue Assignment 2 
+- Week 5:
+    - DSFS: Chapter 9 (pgs. 108–114)
+    - Project: continue Phase 2
+    - Homework: begin Assignment 3 (Monday); complete Assignment 2 (Friday)
+- Week 6:
+    - PDSH: 3.01–3.04, 3.06–3.08
+    - Project: continue Phase 2
+    - Homework: continue Assignment 3
+- Week 7:
+    - Project: continue Phase 2
+    - Homework: begin Assignment 4 (Monday); complete Assignment 3 (Friday)
+- Week 8:
+    - DSFS: Chapter 23 (Supplementary)
+    - Project: continue Phase 2
+    - Homework: continue Assignment 4
+- Week 9:
+    - DSFS: Chapter 25
+    - Project: continue Phase 2
+    - Homework: complete Assignment 4
+- Week 10:
+    - DSFS: Chapter 24 (Supplementary)
+    - Project: complete Phase 2; Project presentations
+- Week 11:
+    - Project: Project presentations
